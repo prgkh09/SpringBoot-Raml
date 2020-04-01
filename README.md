@@ -3,7 +3,7 @@ Springboot and Raml
 
 
 
-Commands to run -
+Commands to run
 
 To create the package - ./mvnw clean package  
 
